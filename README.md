@@ -6,7 +6,7 @@ Thank you for wanting to play Hold This Box! This Privacy Policy explains how th
 Please read this Privacy Policy carefully to understand our practices regarding your information.
 
 ## Information We Collect
-We want to assure you that our game does not collect any personal information or data from its users. We ourselves do not collect, store, or process any personally identifiable information such as names, email addresses, phone numbers, or any other personal data. Please note that when watching advertisements, Unity will gather your device's advertising ID and your IP address. This data will be retained for up to 12 months. Personal data associated with the advertisement ID will be retained for 30 days.
+We want to assure you that our game does not collect any personal information or data from its users. We ourselves do not collect, store, or process any personally identifiable information such as names, email addresses, phone numbers, or any other personal data. Please note that this game is made with Unity and they might gather your device's advertising ID and your IP address. This data will be retained for up to 12 months. Personal data associated with the advertisement ID will be retained for 30 days. You can modify this by clicking on the hand with safety symbol that appears at the left bottom when an advertisement is being started/showed.
 
 ## Information We Store
 As we want you to be able to start from where you left when you closed the game, all data regarding your collected amount of coins, highscores and bought backgrounds and icons (with in-game collected coins) will be stored locally. We will not read or use any other data located on your device. Only save files will be loaded when starting the game.
